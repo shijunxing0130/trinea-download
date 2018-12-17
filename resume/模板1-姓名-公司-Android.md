@@ -1,14 +1,14 @@
 ## 施均幸
 
-Phone: 170 7777 7777　　　　　　　 　　　Email: XXX@gmail.com
+Phone: 170 7777 7777　　　　　　　 　　　Email: shijunxing0924@gmail.com
 
-GitHub: github.com/XX　　　　　　　　　　Blog: www.XX.com
+School: 桂林电子科技大学　　　　　　　　　　Blog: www.XX.com
 
 ---
 
 ### 个人经历
 
-#### 20xx/xx-至今　　　　　　　　codeKK2 公司	　　　　　　　Android 资深开发
+#### 2015/08-至今　　　　　　　　深圳橙社科技 公司	　　　　　　　Android 资深开发
 
 带领移动团队负责 xx，取得了什么成绩
 
